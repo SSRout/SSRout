@@ -1,5 +1,3 @@
-# Hi there 👋 
-
 <img src="https://raw.githubusercontent.com/SSRout/SSRout/master/SSRout_Banner.png" alt="banner that says Sambit Rout - Software Engineer, Coder, Love To Solve Puzzles">
 I'm a software engineer who is passionate about learn new cutting edge technologies. Some technologies I enjoy working with include Dotnet, Python, Algorithim, Angular, Vue.js, AI and Machine Learning.
 
