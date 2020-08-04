@@ -4,15 +4,15 @@ I'm a software engineer who is passionate about learn new cutting edge technolog
 
 <details>
 <summary> My Tech Stack: </summary>
-  - DotNet
+   - DotNet
   <br>
-  - Cloud
+   - Cloud
   <br>
-  - Python
+   - Python
   <br>
-  - AI/ML
+   - AI/ML
   <br>
-  - Js
+   - Js
   
 </details>
 
@@ -23,7 +23,7 @@ I'm a software engineer who is passionate about learn new cutting edge technolog
 ---
 My Github Stats: 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ssrout&show_icons=true&theme=merko&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ssrout&show_icons=true&&count_private=true&theme=merko&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ssrout&hide=css,html&theme=merko">
 </p>
 
