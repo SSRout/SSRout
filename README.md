@@ -6,15 +6,15 @@ Some technologies I enjoy working with include Dotnet, Python, Algorithim, Angul
 
 <details>
 <summary> My Tech Stack: </summary>
-    [*] DotNet
+    ✅  Dotnet
+    <br>
+    ✅  Cloud
   <br>
-    [*] Cloud
+    ✅  Python
   <br>
-    [*] Python
+    ✅  AI/ML
   <br>
-    [*] AI/ML
-  <br>
-    [*] Js
+    ✅  Js
   
 </details>
 
