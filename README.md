@@ -4,21 +4,17 @@ I'm a software engineer who is passionate about learn new cutting edge technolog
 
 <details>
 <summary> My Tech Stack: </summary>
-   - DotNet
+    &nbsp;- DotNet
   <br>
-   - Cloud
+    &nbsp;- Cloud
   <br>
-   - Python
+    &nbsp;- Python
   <br>
-   - AI/ML
+    &nbsp;- AI/ML
   <br>
-   - Js
+    &nbsp;- Js
   
 </details>
-
-## Find me around the web 🌎:
-- Connect with me on <a href="https://in.linkedin.com/in/smruti-sambit-rout-8b7bba80/"> LinkedIn</a> 💼
-- Tinkering with interactions on <a href="https://www.hackerrank.com/profile/STRout/"> Hackerrank</a> or <a href="https://www.hackerearth.com/@smrutisambit/"> Hackerearth</a> ✍🏾 🏓
 
 ---
 My Github Stats: 
@@ -52,6 +48,13 @@ My Github Stats:
 **SSRout/SSRout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi 👋
+
+
+
+## Find me around the web 🌎:
+- Connect with me on <a href="https://in.linkedin.com/in/smruti-sambit-rout-8b7bba80/"> LinkedIn</a> 💼
+- Tinkering with interactions on <a href="https://www.hackerrank.com/profile/STRout/"> Hackerrank</a> or <a href="https://www.hackerearth.com/@smrutisambit/"> Hackerearth</a> ✍🏾 🏓
+
 
 Here are some ideas to get you started:
 
