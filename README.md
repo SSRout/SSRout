@@ -21,16 +21,6 @@ Some technologies I enjoy working with include Dotnet, Python, Algorithim, Angul
 
 ## &#x1f4c8; MY GitHub Stats:
 
-<a href="https://github.com/SSRout/SSRout">
-	<img src = "https://github-readme-stats.vercel.app/api?username=ssrout&show_icons=true&&count_private=true&theme=merko&line_height=27">
-</a>
-<a href="https://github.com/SSRout/SSRout">
-        <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ssrout&layout=compact&hide=css,html,jupyter%20notebook&theme=merko">
-</a>
-
-
-<!--
-
 <table>
 	<thead>
 		<tr>
@@ -39,6 +29,10 @@ Some technologies I enjoy working with include Dotnet, Python, Algorithim, Angul
 		</tr>
 	</thead>
 </table>
+
+<!--
+
+
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ssrout&show_icons=true&&count_private=true&theme=merko&line_height=27">
