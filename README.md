@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/SSRout/SSRout/master/SSRout_Banner.png" alt="banner that says Sambit Rout - Software Engineer, Coder, Love To Solve Puzzles">
+<img src="https://raw.githubusercontent.com/SSRout/SSRout/master/SSRout_Profile_Banner.png" alt="banner that says Sambit Rout - Software Engineer, Coder, Love To Solve Puzzles">
  
 I'm a software engineer who is passionate about learn new cutting edge technologies and trying to solve real time problems.<br>
 I have a passion for learning and sharing my knowledge with others as much as possible.<br>
@@ -6,51 +6,39 @@ Some technologies I enjoy working with include Dotnet, Python, Algorithim, Angul
 
 <details>
 <summary> My Tech Stack: </summary>
-    ✅  Dotnet
+    ⚡  Dotnet
     <br>
-    ✅  Cloud
+    ⚡  Cloud
   <br>
-    ✅  Python
+    ⚡  Python
   <br>
-    ✅  AI/ML
+    ⚡  AI/ML
   <br>
-    ✅  Js
+    ⚡  Js
   
 </details>
 
----
 My Github Stats: 
+<table>
+	<thead>
+		<tr>
+			<th><img src = "https://github-readme-stats.vercel.app/api?username=ssrout&show_icons=true&&count_private=true&theme=merko&line_height=27"></th>
+			<th><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ssrout&layout=compact&hide=css,html,jupyter%20notebook&theme=merko"></th>
+		</tr>
+	</thead>
+</table>
+
+
+<!--
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ssrout&show_icons=true&&count_private=true&theme=merko&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ssrout&layout=compact&hide=css,html,jupyter%20notebook&theme=merko">
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
 **SSRout/SSRout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi 👋
-
 
 
 ## Find me around the web 🌎:
