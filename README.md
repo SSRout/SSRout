@@ -1,5 +1,5 @@
 <!--<img src="https://raw.githubusercontent.com/SSRout/SSRout/master/ssrout_bnr.png" alt="banner that says Sambit Rout - Software Engineer, Coder, Love To Solve Puzzles">-->
- [![Header](https://raw.githubusercontent.com/SSRout/SSRout/master/SSRout_Profile_Banner.png "Header")](https://github.com/SSRout)
+ [![Header](https://raw.githubusercontent.com/SSRout/SSRout/master/ssrout_bnr.png "Header")](https://github.com/SSRout)
  
 I'm a software engineer who is passionate about learn new cutting edge technologies and trying to solve real time problems.<br>
 I have a passion for learning and sharing my knowledge with others as much as possible.<br>
@@ -22,10 +22,10 @@ Some technologies I enjoy working with include Dotnet, Python, Algorithim, Angul
 ## &#x1f4c8; MY GitHub Stats:
 
 <a href="https://github.com/SSRout/SSRout">
-	<img align="center" src = "https://github-readme-stats.vercel.app/api?username=ssrout&show_icons=true&&count_private=true&theme=merko&line_height=27">
+	<img src = "https://github-readme-stats.vercel.app/api?username=ssrout&show_icons=true&&count_private=true&theme=merko&line_height=27">
 </a>
 <a href="https://github.com/SSRout/SSRout">
-        <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ssrout&layout=compact&hide=css,html,jupyter%20notebook&theme=merko">
+        <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ssrout&layout=compact&hide=css,html,jupyter%20notebook&theme=merko">
 </a>
 
 
