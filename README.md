@@ -22,8 +22,8 @@ My Github Stats:
 <table>
 	<thead>
 		<tr>
-			<th width="100%"><img src = "https://github-readme-stats.vercel.app/api?username=ssrout&show_icons=true&&count_private=true&theme=merko&line_height=27"></th>
-			<th width="100%"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ssrout&layout=compact&hide=css,html,jupyter%20notebook&theme=merko"></th>
+			<th><img src = "https://github-readme-stats.vercel.app/api?username=ssrout&show_icons=true&&count_private=true&theme=merko&line_height=27"></th>
+			<th><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ssrout&layout=compact&hide=css,html,jupyter%20notebook&theme=merko"></th>
 		</tr>
 	</thead>
 </table>
