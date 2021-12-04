@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/SSRout/SSRout/master/ssrout_bnr.png" alt="banner that says Sambit Rout - Software Engineer, Coder, Love To Solve Puzzles">
+<!--<img src="https://raw.githubusercontent.com/SSRout/SSRout/master/ssrout_bnr.png" alt="banner that says Sambit Rout - Software Engineer, Coder, Love To Solve Puzzles">-->
+ [![Header](https://raw.githubusercontent.com/SSRout/SSRout/master/ssrout_bnr.png "Header")]
  
 I'm a software engineer who is passionate about learn new cutting edge technologies and trying to solve real time problems.<br>
 I have a passion for learning and sharing my knowledge with others as much as possible.<br>
