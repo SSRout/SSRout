@@ -1,3 +1,4 @@
+### Hi 👋
 <!--<img src="https://raw.githubusercontent.com/SSRout/SSRout/master/ssrout_bnr.png" alt="banner that says Sambit Rout - Software Engineer, Coder, Love To Solve Puzzles">-->
 [![Header](https://raw.githubusercontent.com/SSRout/SSRout/master/ssrout_cover.png "Header")](https://github.com/SSRout)
 I'm a software engineer who is passionate about learn new cutting edge technologies and trying to solve real time problems.<br>
@@ -6,15 +7,15 @@ Some technologies I enjoy working with include Dotnet, Python, Algorithim, Angul
 
 <details>
 <summary> My Tech Stack: </summary>
-    ⚡  Dotnet
+    ✨   Dotnet
     <br>
-    ⚡  Cloud
+    ✨   Cloud
   <br>
-    ⚡  Python
+    ✨   Python
   <br>
-    ⚡  AI/ML
+    ✨   AI/ML
   <br>
-    ⚡  Js
+    ✨   Js
   
 </details>
 
@@ -29,6 +30,7 @@ Some technologies I enjoy working with include Dotnet, Python, Algorithim, Angul
 	</thead>
 </table>
 
+### ✔️🍺 Happy Coding 👍😊
 <!--
 
 
