@@ -2,8 +2,7 @@
 <!--<img src="https://raw.githubusercontent.com/SSRout/SSRout/master/ssrout_bnr.png" alt="banner that says Sambit Rout - Software Engineer, Coder, Love To Solve Puzzles">-->
 [![Header](https://raw.githubusercontent.com/SSRout/SSRout/master/ssr-cover.png "Header")](https://github.com/SSRout)
 I'm a software engineer who is passionate about learn new cutting edge technologies and trying to solve real time problems.<br>
-I have a passion for learning and sharing my knowledge with others as much as possible.<br>
-Some technologies I enjoy working with include Dotnet, Python, Algorithim, Angular, AI and Machine Learning.
+I have a passion for learning and sharing my knowledge with others as much as possible.<br> I enjoy working with include Dotnet, Python, Algorithim, Angular, AI and Machine Learning.
 
 <details>
 <summary> My Tech Stack: </summary>
@@ -21,14 +20,9 @@ Some technologies I enjoy working with include Dotnet, Python, Algorithim, Angul
 
 ## &#x1f4c8; MY GitHub Stats:
 
-<table>
-	<thead>
-		<tr>
-			<th><img height="180em" src = "https://github-readme-stats.vercel.app/api?username=ssrout&show_icons=true&&count_private=true&theme=merk" alt="SSRout's Github Stats></th>
-			<th><img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ssrout&layout=compact&hide=css,html,jupyter%20notebook&theme=merko"></th>
-		</tr>
-	</thead>
-</table>
+<img height="180em" src = "https://github-readme-stats.vercel.app/api?username=ssrout&show_icons=true&&count_private=true&theme=merk" alt="SSRout's Github Stats></th>
+<img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ssrout&layout=compact&hide=css,html,jupyter%20notebook&theme=merko"></th>
+
 
 ### ✔️🍺 Happy Coding 👍😊
 <!--
