@@ -24,8 +24,8 @@ Some technologies I enjoy working with include Dotnet, Python, Algorithim, Angul
 <table>
 	<thead>
 		<tr>
-			<th><img src = "https://github-readme-stats.vercel.app/api?username=ssrout&show_icons=true&&count_private=true&theme=merko&line_height=27"></th>
-			<th><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ssrout&layout=compact&hide=css,html,jupyter%20notebook&theme=merko"></th>
+			<th><img height="180em" src = "https://github-readme-stats.vercel.app/api?username=ssrout&show_icons=true&&count_private=true&theme=merk" alt="SSRout's Github Stats></th>
+			<th><img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ssrout&layout=compact&hide=css,html,jupyter%20notebook&theme=merko"></th>
 		</tr>
 	</thead>
 </table>
