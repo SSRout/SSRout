@@ -20,7 +20,7 @@ I have a passion for learning and sharing my knowledge with others as much as po
 
 ## &#x1f4c8; MY GitHub Stats:
 
-<img height="180em" src = "https://github-readme-stats.vercel.app/api?username=ssrout&show_icons=true&&count_private=true&theme=merk" alt="SSRout's Github Stats"></th>
+<img height="180em" src = "https://github-readme-stats.vercel.app/api?username=ssrout&show_icons=true&&count_private=true&theme=merko" alt="SSRout's Github Stats"></th>
 <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ssrout&layout=compact&hide=css,html,jupyter%20notebook&theme=merko"></th>
 
 
